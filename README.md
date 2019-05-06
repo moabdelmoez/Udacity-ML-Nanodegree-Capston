@@ -3,7 +3,7 @@
 ## Dataset
 For this competition, your objective is to predict whether a user will download an app after clicking a mobile app advertisement.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Kaggel Competition Data](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data "Kaggle's Data")
 
 ## Requirements
 The software requirements for the implementation are as followed;
